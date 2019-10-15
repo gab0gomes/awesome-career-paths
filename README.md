@@ -6,6 +6,7 @@ Curated list of awesome career paths frameworks
 - [Buffer](#buffer)
 - [Medium](#medium)
 - [Rent the Runway](#rent-the-runway)
+- [GitLab](#gitlab)
 
 ## Companies
 ### Spotify
@@ -23,3 +24,6 @@ Curated list of awesome career paths frameworks
 
 ### Rent the Runway
 - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
+
+### GitLab
+- [Engineering Career Framework](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html)
