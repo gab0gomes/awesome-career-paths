@@ -8,6 +8,7 @@ Curated list of awesome career paths frameworks
 - [Rent the Runway](#rent-the-runway)
 - [GitLab](#gitlab)
 - [Fog Creek](#fog-creek)
+- [Construx](#construx)
 
 ## Companies
 ### Spotify
@@ -30,5 +31,7 @@ Curated list of awesome career paths frameworks
 - [Engineering Career Framework](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html)
 
 ### Fog Creek
-
 - [Fog Creek Compensation](https://www.joelonsoftware.com/2000/08/30/fog-creek-compensation/)
+
+### Construx
+- [The Professional Development Ladder](https://www.construx.com/professional-development-ladder/)
