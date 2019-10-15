@@ -7,6 +7,7 @@ Curated list of awesome career paths frameworks
 - [Medium](#medium)
 - [Rent the Runway](#rent-the-runway)
 - [GitLab](#gitlab)
+- [Fog Creek](#fog-creek)
 
 ## Companies
 ### Spotify
@@ -27,3 +28,7 @@ Curated list of awesome career paths frameworks
 
 ### GitLab
 - [Engineering Career Framework](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html)
+
+### Fog Creek
+
+- [Fog Creek Compensation](https://www.joelonsoftware.com/2000/08/30/fog-creek-compensation/)
