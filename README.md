@@ -10,6 +10,8 @@ Curated list of awesome career paths frameworks
 - [Fog Creek](#fog-creek)
 - [Construx](#construx)
 
+[**Another Repositories**](#another-repositories)
+
 ## Companies
 ### Spotify
 - [Building a technical career path at Spotify](https://labs.spotify.com/2016/02/08/technical-career-path/)
@@ -35,3 +37,6 @@ Curated list of awesome career paths frameworks
 
 ### Construx
 - [The Professional Development Ladder](https://www.construx.com/professional-development-ladder/)
+
+## Another repositories
+- [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders)
