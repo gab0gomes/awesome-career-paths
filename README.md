@@ -40,3 +40,4 @@ Curated list of awesome career paths frameworks
 
 ## Another repositories
 - [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders)
+- [Developer Growth Framework - Based Medium](https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework) - 
