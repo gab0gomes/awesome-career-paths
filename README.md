@@ -50,10 +50,9 @@ Curated list of awesome career paths frameworks
 
 ## Another repositories
 - [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders)
-- [A Professional Development Framework for Design](https://clearleft.com/posts/design-professional-development-framework)
-- [Scaling UX: A 4-Step Framework for Design Leaders](https://www.uxpin.com/studio/blog/scaling-ux-4-step-framework-design-leaders/)
-- [Developer Growth Framework - Based Medium](https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework)
-
 
 ## Other Career Growth Framework Resources
 - [Career Growth Frameworks in Software Engineering: A Review](https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
+- [A Professional Development Framework for Design](https://clearleft.com/posts/design-professional-development-framework)
+- [Scaling UX: A 4-Step Framework for Design Leaders](https://www.uxpin.com/studio/blog/scaling-ux-4-step-framework-design-leaders/)
+- [Developer Growth Framework - Based Medium](https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework)
