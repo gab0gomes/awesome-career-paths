@@ -9,8 +9,12 @@ Curated list of awesome career paths frameworks
 - [GitLab](#gitlab)
 - [Fog Creek](#fog-creek)
 - [Construx](#construx)
+- [SquareUp](#squareup)
+- [Songkick](#songkick)
 
 [**Another Repositories**](#another-repositories)
+
+[**Other Career Growth Framework Resources**](#other-career-growth-framework-resources)
 
 ## Companies
 ### Spotify
@@ -38,5 +42,18 @@ Curated list of awesome career paths frameworks
 ### Construx
 - [The Professional Development Ladder](https://www.construx.com/professional-development-ladder/)
 
+### SquareUp
+- [Square’s Growth Framework for Engineers and Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)
+
+### SongKick
+- [Building a Growth Framework](https://blog.songkick.com/building-a-growth-framework-2464435e9e46)
+
 ## Another repositories
 - [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders)
+- [A Professional Development Framework for Design](https://clearleft.com/posts/design-professional-development-framework)
+- [Scaling UX: A 4-Step Framework for Design Leaders](https://www.uxpin.com/studio/blog/scaling-ux-4-step-framework-design-leaders/)
+- [Developer Growth Framework - Based Medium](https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework)
+
+
+## Other Career Growth Framework Resources
+- [Career Growth Frameworks in Software Engineering: A Review](https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
