@@ -12,6 +12,8 @@ Curated list of awesome career paths frameworks
 - [SquareUp](#squareup)
 - [Songkick](#songkick)
 
+If you want a summary about theese and another ladders, see this [post](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/)
+
 [**Another Repositories**](#another-repositories)
 
 [**Other Career Growth Framework Resources**](#other-career-growth-framework-resources)
