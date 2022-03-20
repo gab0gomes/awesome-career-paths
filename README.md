@@ -58,3 +58,4 @@ If you want a summary about theese and another ladders, see this [post](https://
 - [A Professional Development Framework for Design](https://clearleft.com/posts/design-professional-development-framework)
 - [Scaling UX: A 4-Step Framework for Design Leaders](https://www.uxpin.com/studio/blog/scaling-ux-4-step-framework-design-leaders/)
 - [Developer Growth Framework - Based Medium](https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework)
+- [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
